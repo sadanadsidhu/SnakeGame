@@ -1,4 +1,5 @@
-# SnakeGame
-C:\Users\hp\OneDrive\Pictures\Screenshots\Screenshot 2023-10-23 113026.png
-![Uploading image.png…]()
+![image](https://github.com/sadanadsidhu/SnakeGame/assets/121937172/8f8283e6-74bd-4674-a561-17fe3b855241)
+
+
+
 
